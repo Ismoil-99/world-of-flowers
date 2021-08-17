@@ -1,0 +1,23 @@
+.Buket{
+    display: grid;
+}
+.Buket .BuketName{
+    color: #F50057;
+    font-weight: bolder;
+    background: chartreuse;
+}
+
+
+.Buket .BuketNumbers .Bukets{
+    display: grid;
+    border: 1px solid #F50057;
+    border-radius: 5px;
+    grid-template-columns: 1fr 3fr;
+    box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+    margin-bottom: 30px;
+    transition: border .1s ease;
+}
+
+.Buket .BuketNumbers .Bukets:hover{
+    border: 3px solid red;
+}

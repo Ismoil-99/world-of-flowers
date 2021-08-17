@@ -1,0 +1,16 @@
+.CompoItems{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows:auto;
+    gap: 10px;
+}
+.CompoItems .HeaderName{
+    width: 200px;
+    margin-left: 350px;
+}
+
+.CompoItems .HeaderNames{
+    width: 200px;
+    margin-left: 350px;
+    color: blanchedalmond;
+}

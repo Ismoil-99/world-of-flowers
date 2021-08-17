@@ -1,0 +1,24 @@
+.swiper-container{
+    width: 80%;
+}
+.swiper-pagination{
+    bottom: 0;
+    padding-bottom: 50px;
+}
+.swiper-wrapper{
+    padding-inline-start: 0;
+}
+.ButtonAdd{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+.ButtonAdd div{
+}
+.CardPopular{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.SlidesFoto{
+    background: blue;
+}

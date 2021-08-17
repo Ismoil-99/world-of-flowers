@@ -1,0 +1,80 @@
+.Header{
+    display: grid;
+    grid-template-columns: 1fr 3fr 3fr;
+}
+
+.Header .Logo div img{
+    margin-top: 15px;
+    margin-left: 40px;
+    margin-bottom: 5px;
+    width: 50px;
+    height: 50px;
+}
+
+.Header .Input div{
+    margin-left: 530px;
+    line-height: 68px;
+}
+
+.Link .links ul{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+}
+.Link .links ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.Link .links ul li{
+    line-height: 68px;
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #333333;
+}
+.Link .links ul li .Navlink{
+    text-decoration: none;
+    padding: 10px;
+    color: #333333;
+}
+
+.Link .links ul li .Navlink:hover{
+    background: #FF0080;
+    color: blanchedalmond;
+    border-radius: 4px;
+    box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+}
+
+.Link .links ul li .Navlink1{
+    text-decoration: none;
+    padding: 10px;
+    color: #fff;
+}
+
+.Link .links ul li .Navlink1:hover{
+    background: #FF0080;
+    color: blanchedalmond;
+    border-radius: 4px;
+}
+.Link .links ul li .active{
+    color: #FF0080;
+    border-bottom: 3px solid #FF0080;
+}
+.Link .links ul div:last-child{
+    font-weight: bolder;
+}
+
+
+.CountNumber{
+    background: blue;
+    position: relative;
+}
+
+.CountNumber div{
+    position: absolute;
+    bottom: 25px;
+    left: 457px;
+    background: #FF0080;
+    border-radius: 4px;
+    color: #fff;
+}

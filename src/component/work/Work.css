@@ -1,0 +1,96 @@
+.HeaderName{
+    text-align: center;
+}
+.HeaderName p{
+    color: #FF0080;
+    font-weight: bolder;
+}
+.FotoGalery{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 300px;
+    gap: 30px;
+}
+.Work .FotoGalery .Galery1{
+    width: 73.5%;
+    background: rosybrown;
+    box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+    border-radius: 10px;
+}
+
+.Work .FotoGalery .Galery2{
+    width: 73.5%;
+    background: rosybrown;
+    box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+    border-radius: 10px;
+}
+
+.Work .FotoGalery .Galery2 img{
+    width: 100%;
+    height: 258px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.Work .FotoGalery .Galery2 p{
+    color: #FF0080;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.Work .FotoGalery .Galery3{
+    width: 73.5%;
+    background: rosybrown;
+    box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+    border-radius: 10px;
+}
+
+.Work .FotoGalery .Galery3 img{
+    width: 100%;
+    height: 258px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.Work .FotoGalery .Galery3 p{
+    color: #FF0080;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.Work .FotoGalery .Galery4{
+    width: 73.5%;
+    background: rosybrown;
+    box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+    border-radius: 10px;
+}
+
+.Work .FotoGalery .Galery4 img{
+    width: 100%;
+    height: 258px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.Work .FotoGalery .Galery4 p{
+    color: #FF0080;
+    font-weight: bolder;
+    text-align: center;
+}
+
+
+
+
+
+
+.Work .FotoGalery .Galery1 img{
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.Work .FotoGalery .Galery1 p{
+    color: #FF0080;
+    font-weight: bolder;
+    text-align: center;
+}

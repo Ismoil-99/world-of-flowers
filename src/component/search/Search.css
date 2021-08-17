@@ -1,0 +1,22 @@
+.SearchItem{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    margin-top: 30px;
+}
+.SearchItem .Bas{
+    border-radius: 4px;
+    background: white;
+    color: #FF0080;
+    box-shadow:  0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+}
+.SearchItems{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+.SearchItems p {
+    text-align: start;
+    line-height: 72px;
+    color: #FF0080;
+    font-weight: bolder;
+}

@@ -1,0 +1,73 @@
+.LinkSidebar{
+    height: 400px;
+} 
+
+.LinkSidebars{
+    height: 400px;
+}
+.LinkSidebar ul{
+    padding: 20px;
+}
+
+.LinkSidebars ul{
+    padding: 20px;
+}
+
+
+.LinkSidebar ul li{
+    color: black;
+    padding: 10px;
+    background: #fff;
+    border-radius: 4px;
+    list-style: none;
+    font-weight: bolder;
+    transition: background .5s ease-in;
+}
+
+.LinkSidebars ul li{
+    color: #fff;
+    padding: 10px;
+    background: black;
+    border-radius: 4px;
+    list-style: none;
+    font-weight: bolder;
+    transition: background .5s ease-in;
+}
+.LinkSidebar ul li:hover{
+    background:#FF0080;
+}
+.LinkSidebars ul li:hover{
+    background:#FF0080;
+}
+
+.LinkSidebar ul li .Links{
+    color: #35363A;
+    text-decoration: none;
+    padding: 3px;
+}
+
+
+.LinkSidebars ul li .Links{
+    color: #fff;
+    text-decoration: none;
+    padding: 3px;
+}
+.LinkSidebar ul li .Links:hover{
+    color: #fff;
+}
+.LinkSidebar ul li .actives{
+    color: #FF0080;
+    border-bottom: 3px solid #FF0080;
+}
+
+
+.LinkSidebars ul li .actives{
+    color: #FF0080;
+    border-bottom: 3px solid #FF0080;
+}
+
+
+.LinkSidebars ul li .actives{
+    color: #FF0080;
+    border-bottom: 3px solid #FF0080;
+}

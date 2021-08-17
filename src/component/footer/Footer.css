@@ -1,0 +1,27 @@
+.FooterAll{
+    background: #202020;
+}
+
+
+.Footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 2fr;
+    gap: 10px;
+    width: 80%;
+    margin: 0 auto;
+    color: #fff;
+}
+
+.Footer h4{
+    text-align: left;
+}
+
+
+
+.Footer ul{
+    list-style: none;
+    padding: 5px;
+}
+.Footer ul li{
+    font-size: 9px;
+}

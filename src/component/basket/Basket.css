@@ -1,0 +1,18 @@
+.Baseket{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.Baseket .BasketItems{
+    width: 70%;
+    margin: 0 auto;
+    border: 1px solid #F50057;
+    border-radius: 4px;
+}
+.Basketis{
+    color: #F50057;
+    text-align: center;
+    margin-top: 150px;
+}
+.Baseket h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
